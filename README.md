@@ -1,20 +1,52 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# AETERNA
 
-# Run and deploy your AI Studio app
+**Luxury Footwear Website — Built with a Timeless Design Philosophy**
 
-This contains everything you need to run your app locally.
+AETERNA is a premium luxury footwear web experience designed to feel editorial, refined, and intentional.  
+This is not a flashy ecommerce template — it’s a fashion-house style digital presence.
 
-View your app in AI Studio: https://ai.studio/apps/drive/17Wi7KOd9bKv0Ae9rBwNjvsK0atg4J6I5
+Minimal. Structured. Confident.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## ✨ Features
 
+- Luxury editorial UI inspired by high-fashion brands
+- Clean typography using Playfair Display & Montserrat
+- Custom Tailwind theme with gold accents
+- Smooth layouts with strong visual hierarchy
+- Fully responsive across all devices
+- Vite-powered fast development setup
+- Scalable structure for future ecommerce expansion
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🛠 Tech Stack
+
+- HTML5  
+- Tailwind CSS  
+- TypeScript / TSX  
+- Vite  
+- Google Fonts  
+- Custom Tailwind Configuration  
+
+---
+
+## 🎨 Design Approach
+
+AETERNA follows a **quiet luxury** mindset:
+
+- Large visuals
+- Generous white space
+- Editorial sections
+- No unnecessary UI noise
+
+Every section is designed to communicate **premium value without shouting**.
+
+---
+
+## 🚀 Getting Started
+
+```bash
+npm install
+npm run dev
